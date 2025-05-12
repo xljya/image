@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="17QydgVOFod0C8i1eIwQ-2" value="会员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="400" width="130" height="40" as="geometry" />
+        <mxCell id="17QydgVOFod0C8i1eIwQ-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;会员信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="410" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="17QydgVOFod0C8i1eIwQ-3" value="会员昵称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="110" height="40" as="geometry" />
@@ -27,6 +27,114 @@
         </mxCell>
         <mxCell id="17QydgVOFod0C8i1eIwQ-11" value="会员ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="350" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="420" as="sourcePoint" />
+            <mxPoint x="140" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="390" as="sourcePoint" />
+            <mxPoint x="230" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="370" as="sourcePoint" />
+            <mxPoint x="310" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-17" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-18" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="500" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="410" as="sourcePoint" />
+            <mxPoint x="670" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;教练信息&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359" y="650" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-22" value="薪资" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-23" value="住址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="510" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-24" value="教练头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="659" y="580" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-25" value="教练性别" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="149" y="560" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-26" value="入职日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="459" y="530" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-27" value="教授类型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="569" y="550" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-28" value="教练ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="59" y="590" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-29" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="660" as="sourcePoint" />
+            <mxPoint x="169" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="209" y="630" as="sourcePoint" />
+            <mxPoint x="259" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="289" y="610" as="sourcePoint" />
+            <mxPoint x="339" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-32" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="369" y="600" as="sourcePoint" />
+            <mxPoint x="419" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="419" y="650" as="sourcePoint" />
+            <mxPoint x="529" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="17QydgVOFod0C8i1eIwQ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="640" as="sourcePoint" />
+            <mxPoint x="609" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17QydgVOFod0C8i1eIwQ-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="650" as="sourcePoint" />
+            <mxPoint x="699" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
